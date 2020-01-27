@@ -3,6 +3,6 @@ _site
 .jekyll-metadata
 
 deps/
-assets/
 priv/
 test/
+_build/
